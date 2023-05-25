@@ -1,0 +1,400 @@
+yıpranmak	yıpranmıyorlarmış	V;INFR;PRS;PROG;3;PL;NEG;DECL
+katılaştırmak	katılaştırmayacak mıymış	V;INFR;FUT;3;SG;NEG;INTR
+kulağını bükmek	kulağını bükmeli miymişiz	V;OBLIG;INFR;PST;1;PL;INTR;POS
+sürünmek	sürünürdük	V;IND;PST;HAB;1;PL;POS;DECL
+makyaj yapmak	makyaj yapmamış mıyız	V;INFR;PST;1;PL;NEG;INTR
+gülünçleşmek	gülünçleşmemiş miymişim	V;INFR;LGSPEC1;PST;1;SG;NEG;INTR
+diyapazon	diyapazonlarımızda	N;LOC;PL;PSS1P
+sürtmek	sürtmüyoruz	V;IND;PRS;PROG;1;PL;NEG;DECL
+ayakkabıcı	ayakkabıcılarmışsınız	N;ARGNO2P;PL;LGSPEC2
+keşkek	keşkeğinde	N;LOC;SG;PSS2S
+Türkçeleştirmek	Türkçeleştirirdiniz	V;IND;PST;HAB;2;PL;POS;DECL
+sevişmek	sevişmiştim	V;INFR;PST;PFV;1;SG;POS;DECL
+canlanılmak	canlanılmış olacak mıyız	V;INFR;FUT;PFV;1;PL;INTR;POS
+dermek	dermiyor muymuş	V;INFR;PRS;PROG;3;SG;NEG;INTR
+gizlenmek	gizlenmeliymişiz	V;OBLIG;INFR;PST;1;PL;POS;DECL
+bank	banklarına	N;DAT;PL;PSS3S
+kavram	kavramda	N;LOC;SG
+sinmek	sinmiş	V;INFR;PST;3;SG;POS;DECL
+papaz olmak	papaz oluyor olmazdım	V;IND;PST;HAB+PROG;1;SG;NEG;DECL
+süsmek	süser miyim	V;IND;PRS;HAB;1;SG;INTR;POS
+balkan	balkanız	N;ARGNO1P;SG;PRS
+mikrofiber	mikrofiberinizi	N;ACC;SG;PSS2P
+sızmak	sızıyorlar mıydı	V;IND;PST;PROG;3;PL;INTR;POS
+oynamak	oynamıyor muymuş	V;INFR;PRS;PROG;3;SG;NEG;INTR
+memleket	memleketleri	N;NOM;PL;PSS3S
+öfkelendirmek	öfkelendirmemişler	V;INFR;PST;3;PL;NEG;DECL
+düşmek	düşmüyormuşsunuz	V;INFR;PRS;PROG;2;PL;NEG;DECL
+saklamak	saklamamışız	V;INFR;PST;1;PL;NEG;DECL
+Hakk'ın rahmetine kavuşmak	Hakk'ın rahmetine kavuşuyor olmamalı mıydı	V;OBLIG;PST;PROG;3;SG;NEG;INTR
+ittirmek	ittirmez miydin	V;IND;PST;HAB;2;SG;NEG;INTR
+yengeç	yengecimizin	N;GEN;SG;PSS1P
+izlemek	izlememiş miydiniz	V;INFR;PST;PFV;2;PL;NEG;INTR
+ellemek	ellemez miymişsiniz	V;INFR;PRS;HAB;2;PL;NEG;INTR
+şafak	şafaklarınızı	N;ACC;PL;PSS2P
+acıtmak	acıtmıyor muymuşsunuz	V;INFR;PRS;PROG;2;PL;NEG;INTR
+matla	matlalarmışsınız	N;ARGNO2P;PL;LGSPEC2
+gerekmek	gerekiyor olmamalı mıydık	V;OBLIG;PST;PROG;1;PL;NEG;INTR
+homoseksüel	homoseksüelin	N;NOM;SG;PSS2S
+haşefe	haşefeye	N;DAT;SG
+uğratmak	uğrattı mıydı	V;IND;PST;PFV;3;SG;INTR;POS
+radyoaktif bozunum	radyoaktif bozunumlardan	N;ABL;PL
+fare	faresini	N;ACC;SG;PSS3S
+azmak	azmıyordunuz	V;IND;PST;PROG;2;PL;NEG;DECL
+dermek	deriyorlar mıymış	V;INFR;PRS;PROG;3;PL;INTR;POS
+kullanılmak	kullanılmış mıydınız	V;INFR;PST;PFV;2;PL;INTR;POS
+fırça	fırçaları	N;ACC;PL
+önemlilik	önemliliklerde	N;LOC;PL
+zartayı çekmek	zartayı çekmiyor muyuz	V;IND;PRS;PROG;1;PL;NEG;INTR
+gezmek	geziyor olmamalı mıymış	V;OBLIG;INFR;PRS;PROG;3;SG;NEG;INTR
+çalmak	çalmalıydınız	V;OBLIG;PST;2;PL;POS;DECL
+katılaştırmak	katılaştırmış olacak mıydı	V;INFR;PST;PROSP;3;SG;INTR;POS
+asmak	asıyor olmamalı mıydı	V;OBLIG;PST;PROG;3;SG;NEG;INTR
+devinmek	devinmediniz	V;IND;PST;2;PL;NEG;DECL
+kalıbı değiştirmek	kalıbı değiştirir misiniz	V;IND;PRS;HAB;2;PL;INTR;POS
+sihirli	sihirliyim	ADJ;LGSPEC1;PRS;1;SG;POS;DECL
+geğirmek	geğiriyor olmayacaktın	V;IND;PST;PROSP+PROG;2;SG;NEG;DECL
+kesmek	kesecek olmayacağız	V;IND;FUT;PROSP;1;PL;NEG;DECL
+çıngırağı çekmek	çıngırağı çekmiş miymişsiniz	V;INFR;LGSPEC1;PST;2;PL;INTR;POS
+dilmek	dilerlerdi	V;IND;PST;HAB;3;PL;POS;DECL
+imam	imamına	N;DAT;SG;PSS2S
+cartayı çekmek	cartayı çekmedilerdi	V;IND;PST;PFV;3;PL;NEG;DECL
+yoldurtmak	yoldurtmuş olmayacağız	V;INFR;FUT;PFV;1;PL;NEG;DECL
+bitirmek	bitiriyor olacaksın	V;IND;FUT;PROG;2;SG;POS;DECL
+lehçe	lehçemizin	N;GEN;SG;PSS1P
+taklitçi olmak	taklitçi olmuş olacak mıyım	V;INFR;FUT;PFV;1;SG;INTR;POS
+dizmek	dizmemelilermiş	V;OBLIG;INFR;PST;3;PL;NEG;DECL
+eğlenmek	eğlenmeyecek miydin	V;IND;PST;PROSP;2;SG;NEG;INTR
+çıkarmak	çıkarmış olmayacaktım	V;INFR;PST;PROSP;1;SG;NEG;DECL
+kanal	kanalda	N;LOC;SG
+kuzgun	kuzgununun	N;GEN;SG;PSS3S
+kerpeten	kerpeteni	N;ACC;SG
+çarmıha germek	çarmıha geriyor olmamalıymışız	V;OBLIG;INFR;PRS;PROG;1;PL;NEG;DECL
+sevmek	seviyor olmayacaklar mıymış	V;INFR;FUT;PROG;3;PL;NEG;INTR
+kurtarmak	kurtarır olacak mıymış	V;INFR;FUT;HAB;3;SG;INTR;POS
+günlük	günlüklerini	N;ACC;PL;PSS3S
+verdirmek	verdiriyor olmalısınız	V;OBLIG;PRS;PROG;2;PL;POS;DECL
+vapur	vapurdular	N;ARGNO3P;SG;PST
+ispatlamak	ispatlar mı	V;IND;PRS;HAB;3;SG;INTR;POS
+atıştırmak	atıştırıyor olmayacakmış	V;INFR;FUT;PROG;3;SG;NEG;DECL
+beklemek	beklememiştim	V;INFR;PST;PFV;1;SG;NEG;DECL
+şişlik	şişliklerimizi	N;ACC;PL;PSS1P
+solmak	soluyor olmamalı mıydın	V;OBLIG;PST;PROG;2;SG;NEG;INTR
+bölmek	böldünüz	V;IND;PST;2;PL;POS;DECL
+belediye	belediyelerimizi	N;ACC;PL;PSS1P
+fevt olmak	fevt oluyor olmamalıyız	V;OBLIG;PRS;PROG;1;PL;NEG;DECL
+yapışmak	yapıştım mı	V;IND;PST;1;SG;INTR;POS
+gülmek	gülüyor olacaklarmış	V;INFR;FUT;PROG;3;PL;POS;DECL
+astronot	astronotlarınızda	N;LOC;PL;PSS2P
+geçinmek	geçinirmişim	V;INFR;PRS;HAB;1;SG;POS;DECL
+yıpratmak	yıpratmayacaktım	V;IND;PST;PROSP;1;SG;NEG;DECL
+cartayı çekmek	cartayı çekiyor olmayacaklar mı	V;IND;FUT;PROG;3;PL;NEG;INTR
+dağıtmak	dağıtmayacakmışız	V;INFR;FUT;1;PL;NEG;DECL
+ebediyet	ebediyetinizin	N;GEN;SG;PSS2P
+öldürtülmemek	öldürtülmemezmişsin	V;INFR;PRS;HAB;2;SG;NEG;DECL
+iyileştirmek	iyileştiriyor olmamalı mıymışsınız	V;OBLIG;INFR;PRS;PROG;2;PL;NEG;INTR
+tıraş olmak	tıraş oluyor olmalıymışım	V;OBLIG;INFR;PRS;PROG;1;SG;POS;DECL
+dadanmak	dadanmamalıymışsınız	V;OBLIG;INFR;PST;2;PL;NEG;DECL
+helak olmak	helak olacak olmayacak mıymış	V;INFR;FUT;PROSP;3;SG;NEG;INTR
+çalışmak	çalışacak olacak mıymışsınız	V;INFR;FUT;PROSP;2;PL;INTR;POS
+eğitmek	eğitin	V;IMP;2;PL;POS;DECL
+onarmak	onarıyor olmalı mıymışım	V;OBLIG;INFR;PRS;PROG;1;SG;INTR;POS
+oynamak	oynar mısınız	V;IND;PRS;HAB;2;PL;INTR;POS
+seks yapmak	seks yapmış mıydı	V;INFR;PST;PFV;3;SG;INTR;POS
+bükmek	bükecekmişsin	V;INFR;FUT;2;SG;POS;DECL
+birlik	birliklerden	N;ABL;PL
+yaratmak	yaratmamışım	V;INFR;PST;1;SG;NEG;DECL
+sugeçirmez yapmak	sugeçirmez yapmaz mıydın	V;IND;PST;HAB;2;SG;NEG;INTR
+dirilmemek	dirilmemeyecekmişsiniz	V;INFR;FUT;2;PL;NEG;DECL
+yummak	yumacaklar mı	V;IND;FUT;3;PL;INTR;POS
+üşümek	üşüyor olacakmışım	V;INFR;FUT;PROG;1;SG;POS;DECL
+taklitçi olmak	taklitçi olmuştunuz	V;INFR;PST;PFV;2;PL;POS;DECL
+yermek	yeriyor olmalıyım	V;OBLIG;PRS;PROG;1;SG;POS;DECL
+yalamak	yalıyor olacak mı	V;IND;FUT;PROG;3;SG;INTR;POS
+ülke	ülken	N;NOM;SG;PSS2S
+katılaştırmak	katılaştırmayacaklar	V;IND;FUT;3;PL;NEG;DECL
+yetmek	yetmemiş misin	V;INFR;PST;2;SG;NEG;INTR
+şamarlamak	şamarlamamalı mıydın	V;OBLIG;PST;2;SG;NEG;INTR
+hayalî arkadaş	hayalî arkadaşına	N;DAT;SG;PSS2S
+yalvarmak	yalvaracak mıydık	V;IND;PST;PROSP;1;PL;INTR;POS
+kıyı	kıyımıza	N;DAT;SG;PSS1P
+benzer	benzerini	N;ACC;SG;PSS3S
+heyecan	heyecanlarınızı	N;ACC;PL;PSS2P
+onamak	onuyoruz	V;IND;PRS;PROG;1;PL;POS;DECL
+iletmek	iletirmişiz	V;INFR;PRS;HAB;1;PL;POS;DECL
+çakal	çakalları	N;ACC;PL
+dermek	dermezsiniz	V;IND;PRS;HAB;2;PL;NEG;DECL
+kovdurtmak	kovdurtacakmışız	V;INFR;FUT;1;PL;POS;DECL
+heyecanlandırtmak	heyecanlandırtırdı	V;IND;PST;HAB;3;SG;POS;DECL
+peynirli pasta	peynirli pastalarsın	N;ARGNO2S;PL;PRS
+sos	sosu	N;NOM;SG;PSS3S
+uymak	uyuyor olmazdık	V;IND;PST;HAB+PROG;1;PL;NEG;DECL
+seslenmek	seslenmiş olacağım	V;INFR;FUT;PFV;1;SG;POS;DECL
+bağlamak	bağlamışlar mıydı	V;INFR;PST;PFV;3;PL;INTR;POS
+ağda yapmak	ağd yapıyor olmamalı mı	V;OBLIG;PRS;PROG;3;SG;NEG;INTR
+kışkırtmak	kışkırtmış olmayacaktım	V;INFR;PST;PROSP;1;SG;NEG;DECL
+zartayı çekmek	zartayı çekecek olacak mıyız	V;IND;FUT;PROSP;1;PL;INTR;POS
+yontmak	yontmamalılar mıydı	V;OBLIG;PST;3;PL;NEG;INTR
+itmek	itiyor olmamalıymışsınız	V;OBLIG;INFR;PRS;PROG;2;PL;NEG;DECL
+hacı	hacılarını	N;ACC;PL;PSS3S
+sökmek	söküyor muydum	V;IND;PST;PROG;1;SG;INTR;POS
+şaşırtmak	şaşırtıyor olacakmışım	V;INFR;FUT;PROG;1;SG;POS;DECL
+yırtmak	yırtıyor olmayacaklar mı	V;IND;FUT;PROG;3;PL;NEG;INTR
+tanımak	tanır olmayacaklar mıymış	V;INFR;FUT;HAB;3;PL;NEG;INTR
+ürkmek	ürküyor olmalılar	V;OBLIG;PRS;PROG;3;PL;POS;DECL
+ispatlamak	ispatlamıyor muydunuz	V;IND;PST;PROG;2;PL;NEG;INTR
+eğlenmek	eğlenmiş mi	V;INFR;PST;3;SG;INTR;POS
+yetkili sunucu	yetkili sunucularımızın	N;GEN;PL;PSS1P
+salata	salataymışsın	N;ARGNO2S;SG;LGSPEC2
+pişirmek	pişirecek miydim	V;IND;PST;PROSP;1;SG;INTR;POS
+sugeçirmez yapmak	sugeçirmez yapmadıydık	V;IND;PST;PFV;1;PL;NEG;DECL
+yazmak	yazıyordu	V;IND;PST;PROG;3;SG;POS;DECL
+satılmak	satılmıyorsun	V;IND;PRS;PROG;2;SG;NEG;DECL
+diferansiyel denklem	diferansiyel denkleminizin	N;GEN;SG;PSS2P
+süt sağmak	süt sağıyorlar mıydı	V;IND;PST;PROG;3;PL;INTR;POS
+canlandırmamak	canlandırıyor olmamalıymışsınız	V;OBLIG;INFR;PRS;PROG;2;PL;NEG;DECL
+ölümsüzleştirmek	ölümsüzleştirdilerdi	V;IND;PST;PFV;3;PL;POS;DECL
+balamoz	balamozlarının	N;GEN;PL;PSS3S
+artı sayı	artı sayılarınızı	N;ACC;PL;PSS2P
+sürülmek	sürülürmüşsün	V;INFR;PRS;HAB;2;SG;POS;DECL
+eğlenmek	eğlenirdin	V;IND;PST;HAB;2;SG;POS;DECL
+büyüleyici	büyüleyiciydim	ADJ;LGSPEC1;PST;1;SG;POS;DECL
+hayalî arkadaş	hayalî arkadaşlardın	N;ARGNO2S;PL;PST
+sülüs	sülüsümüzde	N;LOC;SG;PSS1P
+kırmak	kırıyor mu	V;IND;PRS;PROG;3;SG;INTR;POS
+ettirmek	ettiriyor olacaktık	V;IND;PST;PROSP+PROG;1;PL;POS;DECL
+göstermek	gösteriyor olmamalıymışız	V;OBLIG;INFR;PRS;PROG;1;PL;NEG;DECL
+kaşımak	kaşımadı mıydın	V;IND;PST;PFV;2;SG;NEG;INTR
+ısınmak	ısınırmış	V;INFR;PRS;HAB;3;SG;POS;DECL
+ilklendirmek	ilklendirmişler miydi	V;INFR;PST;PFV;3;PL;INTR;POS
+fotoğraf çekmek	fotoğraf çekecek olmayacak mı	V;IND;FUT;PROSP;3;SG;NEG;INTR
+yapışmak	yapışmış olacak mıyım	V;INFR;FUT;PFV;1;SG;INTR;POS
+yetişmek	yetişiyor olmamalıyım	V;OBLIG;PRS;PROG;1;SG;NEG;DECL
+eğlence	eğlencede	N;LOC;SG
+ölçmek	ölçecek olmayacak	V;IND;FUT;PROSP;3;SG;NEG;DECL
+dokumak	dokurmuşsun	V;INFR;PRS;HAB;2;SG;POS;DECL
+büktürtmemek	büktürtüyor olacak mıymışım	V;INFR;FUT;PROG;1;SG;INTR;POS
+dirilmemek	dirilmemiyorlar mıydı	V;IND;PST;PROG;3;PL;NEG;INTR
+ummak	ummuyorum	V;IND;PRS;PROG;1;SG;NEG;DECL
+şarapçı	şarapçısı	N;NOM;SG;PSS3S
+başparmak	başparmağa	N;DAT;SG
+büktürülmek	büktürülmedi miydik	V;IND;PST;PFV;1;PL;NEG;INTR
+solumak	solumaz mıymışsın	V;INFR;PRS;HAB;2;SG;NEG;INTR
+şaşırtmak	şaşırtmış olacak mı	V;INFR;FUT;PFV;3;SG;INTR;POS
+eklemesiz	eklemesizmişiz	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL
+yalvarmak	yalvarmış olmayacak mıydınız	V;INFR;PST;PROSP;2;PL;NEG;INTR
+ürümek	ürüyor olacağız	V;IND;FUT;PROG;1;PL;POS;DECL
+sermek	sermiş miydiniz	V;INFR;PST;PFV;2;PL;INTR;POS
+sistem	sistemlerden	N;ABL;PL
+ölçmek	ölçüyor olmamalı mıyız	V;OBLIG;PRS;PROG;1;PL;NEG;INTR
+komikleşmek	komikleşiyor olacaklar	V;IND;FUT;PROG;3;PL;POS;DECL
+aşık olmak	aşık olmuş olmayacak mıydın	V;INFR;PST;PROSP;2;SG;NEG;INTR
+canlandırtmak	canlandırtmış mı	V;INFR;PST;3;SG;INTR;POS
+susmak	susacak mıydın	V;IND;PST;PROSP;2;SG;INTR;POS
+kirletmek	kirletmiyor muydum	V;IND;PST;PROG;1;SG;NEG;INTR
+ikilem	ikilemlerini	N;ACC;PL;PSS3S
+içermek	içeriyor olurlar mıydı	V;IND;PST;HAB+PROG;3;PL;INTR;POS
+bölmek	bölüyor olmayacakmışsın	V;INFR;FUT;PROG;2;SG;NEG;DECL
+mortoyu çekmek	mortoyu çekmiyormuşuz	V;INFR;PRS;PROG;1;PL;NEG;DECL
+bulamak	bular mıyım	V;IND;PRS;HAB;1;SG;INTR;POS
+sümürmek	sümürüyor olmalısın	V;OBLIG;PRS;PROG;2;SG;POS;DECL
+ittirilmek	ittirilmiş olmayacaktım	V;INFR;PST;PROSP;1;SG;NEG;DECL
+acıktırtmak	acıktırtıyor olacak mıymış	V;INFR;FUT;PROG;3;SG;INTR;POS
+hareket etmek	hareket etmiş olmayacak mıyız	V;INFR;FUT;PFV;1;PL;NEG;INTR
+yıkamak	yıkıyor olacak mıymışsın	V;INFR;FUT;PROG;2;SG;INTR;POS
+ongunculuk	ongunculuğunuzu	N;ACC;SG;PSS2P
+primitif	primitif değilmişsin	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL
+güzelleştirmek	güzelleştirir olacaklarmış	V;INFR;FUT;HAB;3;PL;POS;DECL
+başkan	başkanlardır	N;ARGNO3P;PL;PRS
+sağmak	sağmıyormuşsun	V;INFR;PRS;PROG;2;SG;NEG;DECL
+türemek	türemezdi	V;IND;PST;HAB;3;SG;NEG;DECL
+liste	listelerinde	N;LOC;PL;PSS2S
+destan	destanlarınızı	N;ACC;PL;PSS2P
+sevişmek	sevişmiyorlar	V;IND;PRS;PROG;3;PL;NEG;DECL
+emlak	emlağınızın	N;GEN;SG;PSS2P
+şaşırttırmak	şaşırttırıyor olacaktınız	V;IND;PST;PROSP+PROG;2;PL;POS;DECL
+haberleşmek	haberleşmediler mi	V;IND;PST;3;PL;NEG;INTR
+saçmak	saçıyor olurdum	V;IND;PST;HAB+PROG;1;SG;POS;DECL
+yerel değişken	yerel değişkenmişler	N;ARGNO3P;SG;LGSPEC2
+artmak	artacak olacakmış	V;INFR;FUT;PROSP;3;SG;POS;DECL
+kötüleştirmek	kötüleştirmeyeceğiz	V;IND;FUT;1;PL;NEG;DECL
+kırmak	kırmış olacaksın	V;INFR;FUT;PFV;2;SG;POS;DECL
+durmak	durur olacakmışız	V;INFR;FUT;HAB;1;PL;POS;DECL
+gizlemek	gizlememeli miymişim	V;OBLIG;INFR;PST;1;SG;NEG;INTR
+keman	kemana	N;DAT;SG
+gelinmek	geliniyormuşsunuz	V;INFR;PRS;PROG;2;PL;POS;DECL
+yara	yarasından	N;ABL;SG;PSS3S
+bıkmak	bıkar olmayacakmışız	V;INFR;FUT;HAB;1;PL;NEG;DECL
+üzülmek	üzülmüyor mu	V;IND;PRS;PROG;3;SG;NEG;INTR
+sevgili	sevgililerini	N;ACC;PL;PSS3S
+cinsellik	cinselliklere	N;DAT;PL
+korkmak	korkuyor olmamalı mıymışım	V;OBLIG;INFR;PRS;PROG;1;SG;NEG;INTR
+kazanmak	kazanacak olmayacaklar mıymış	V;INFR;FUT;PROSP;3;PL;NEG;INTR
+başarmak	başarıyor olmayacak mıydı	V;IND;PST;PROSP+PROG;3;SG;NEG;INTR
+buharlaşmak	buharlaşıyor olurlar mıydı	V;IND;PST;HAB+PROG;3;PL;INTR;POS
+dondurmak	dondurmuyor musun	V;IND;PRS;PROG;2;SG;NEG;INTR
+çatmak	çatmamışlar	V;INFR;PST;3;PL;NEG;DECL
+şırınga	şırıngaymışsın	N;ARGNO2S;SG;LGSPEC2
+dayamak	dayamışsınız	V;INFR;PST;2;PL;POS;DECL
+onarmak	onarıyor olmazlardı	V;IND;PST;HAB+PROG;3;PL;NEG;DECL
+göndermek	gönderiyor olacaklar mıymış	V;INFR;FUT;PROG;3;PL;INTR;POS
+gebermek	geberiyorum	V;IND;PRS;PROG;1;SG;POS;DECL
+başarmak	başaracaksınız	V;IND;FUT;2;PL;POS;DECL
+işitmek	işitir olmayacak mıymışız	V;INFR;FUT;HAB;1;PL;NEG;INTR
+çarmıha germek	çarmıha gerdilerdi	V;IND;PST;PFV;3;PL;POS;DECL
+duş almak	duş almıyor muymuşuz	V;INFR;PRS;PROG;1;PL;NEG;INTR
+artçı sarsıntı	artçı sarsıntın	N;NOM;SG;PSS2S
+alındırtmak	alındırtmış olmayacaktınız	V;INFR;PST;PROSP;2;PL;NEG;DECL
+kovdurtmak	kovdurtuyor olacak mıymışsın	V;INFR;FUT;PROG;2;SG;INTR;POS
+ispatlamak	ispatlıyor olacak mısınız	V;IND;FUT;PROG;2;PL;INTR;POS
+pandispanya	pandispanyalarmışsın	N;ARGNO2S;PL;LGSPEC2
+numara verme	numara vermeleri	N;NOM;PL;PSS3S
+kısmak	kıs	V;IMP;2;SG;POS;DECL
+kabuk	kabuğa	N;DAT;SG
+eğilmek	eğiliyor olmayacakmışsınız	V;INFR;FUT;PROG;2;PL;NEG;DECL
+atıştırmak	atıştırmayacak mıyım	V;IND;FUT;1;SG;NEG;INTR
+öldürtülmemek	öldürtülüyeceğiz	V;IND;FUT;1;PL;POS;DECL
+jilet	jiletlerimizin	N;GEN;PL;PSS1P
+ayrılmak	ayrılacak olacak mıymış	V;INFR;FUT;PROSP;3;SG;INTR;POS
+Abu Dabili	Abu Dabilisin	N;ARGNO2S;SG;PRS
+sapmak	sapacağız	V;IND;FUT;1;PL;POS;DECL
+kanamak	kanamalı mıydın	V;OBLIG;PST;2;SG;INTR;POS
+işemek	işiyor olmamalılar mı	V;OBLIG;PRS;PROG;3;PL;NEG;INTR
+kapamak	kapamıyoruz	V;IND;PRS;PROG;1;PL;NEG;DECL
+eskimek	eskiyecek olmayacak mıyım	V;IND;FUT;PROSP;1;SG;NEG;INTR
+damlamak	damlıyor olmayacak mıymışım	V;INFR;FUT;PROG;1;SG;NEG;INTR
+çıkmak	çıkacak olmayacağım	V;IND;FUT;PROSP;1;SG;NEG;DECL
+kart	kartlarda	N;LOC;PL
+öğütmek	öğütüyor olmaz mıydın	V;IND;PST;HAB+PROG;2;SG;NEG;INTR
+girmek	girmeli miymişiz	V;OBLIG;INFR;PST;1;PL;INTR;POS
+gülünçleşmek	gülünçleşmez miydin	V;IND;PST;HAB;2;SG;NEG;INTR
+dalgalandırmak	dalgalandırmazsın	V;IND;PRS;HAB;2;SG;NEG;DECL
+tutmak	tutmayacaklar mıydı	V;IND;PST;PROSP;3;PL;NEG;INTR
+geciktirmek	geciktiriyor muymuşsunuz	V;INFR;PRS;PROG;2;PL;INTR;POS
+kovmamak	kovmamamalı mıydınız	V;OBLIG;PST;2;PL;NEG;INTR
+çürümek	çürüdüydünüz	V;IND;PST;PFV;2;PL;POS;DECL
+sevişmek	sevişecek olacağım	V;IND;FUT;PROSP;1;SG;POS;DECL
+sayfa	sayfalarımıza	N;DAT;PL;PSS1P
+çarpmak	çarpacak mıyım	V;IND;FUT;1;SG;INTR;POS
+yalamak	yalamamalıymış	V;OBLIG;INFR;PST;3;SG;NEG;DECL
+yuvarlamak	yuvarlamayacakmışsın	V;INFR;FUT;2;SG;NEG;DECL
+bildirmek	bildirmeli miymişiz	V;OBLIG;INFR;PST;1;PL;INTR;POS
+toplamak	toplaacak olmayacak mıymışsın	V;INFR;FUT;PROSP;2;SG;NEG;INTR
+acımak	acıyor olmalı mıyım	V;OBLIG;PRS;PROG;1;SG;INTR;POS
+sünmek	sünüyor olmamalıymışım	V;OBLIG;INFR;PRS;PROG;1;SG;NEG;DECL
+acıktırtmak	acıktırtıyor olurdunuz	V;IND;PST;HAB+PROG;2;PL;POS;DECL
+tıkmak	tıkmış olacaklar	V;INFR;FUT;PFV;3;PL;POS;DECL
+dökmek	döküyorsunuz	V;IND;PRS;PROG;2;PL;POS;DECL
+yıldızıl	yıldızıllara	N;DAT;PL
+sapıklık	sapıklığa	N;DAT;SG
+çilek	çilekleriniz	N;NOM;PL;PSS2P
+verimsizleştirmek	verimsizleştirirler mi	V;IND;PRS;HAB;3;PL;INTR;POS
+uzak	uzak	N;ARGNO3S;SG;PRS
+içmek	içmiş olmayacak mıyım	V;INFR;FUT;PFV;1;SG;NEG;INTR
+yağmak	yağmamalı mıydım	V;OBLIG;PST;1;SG;NEG;INTR
+çökmek	çöküyorlar mıymış	V;INFR;PRS;PROG;3;PL;INTR;POS
+ayarlatmak	ayarlatacak olacaklar	V;IND;FUT;PROSP;3;PL;POS;DECL
+gerinmek	geriniyor olmamalılardı	V;OBLIG;PST;PROG;3;PL;NEG;DECL
+yalamak	yalıyor olmamalılardı	V;OBLIG;PST;PROG;3;PL;NEG;DECL
+dürmek	dürer olmayacaklarmış	V;INFR;FUT;HAB;3;PL;NEG;DECL
+kelimecik	kelimeciğine	N;DAT;SG;PSS2S
+paskalya	paskalyalar	N;NOM;PL
+küsmek	küsmeyin	V;IMP;2;PL;NEG;DECL
+kızmak	kızmadı mıydık	V;IND;PST;PFV;1;PL;NEG;INTR
+soymak	soymalı mıymış	V;OBLIG;INFR;PST;3;SG;INTR;POS
+sıvılaşmak	sıvılaşıyor olurlardı	V;IND;PST;HAB+PROG;3;PL;POS;DECL
+enstrümantal	enstrümantallerini	N;ACC;PL;PSS3S
+sararmak	sararmış olmayacak mı	V;INFR;FUT;PFV;3;SG;NEG;INTR
+dokumak	dokuyacak olacaklar mı	V;IND;FUT;PROSP;3;PL;INTR;POS
+arzu	arzuların	N;GEN;PL
+ekstremum	ekstremumunda	N;LOC;SG;PSS2S
+doğurmak	doğurur olmayacakmışız	V;INFR;FUT;HAB;1;PL;NEG;DECL
+ayarlanmak	ayarlanmamışmış	V;INFR;LGSPEC1;PST;3;SG;NEG;DECL
+gerekmek	gerekmemiş miyim	V;INFR;PST;1;SG;NEG;INTR
+veri tabanı	veri tabanı	N;NOM;SG
+fındık kırmak	fındık kırmayacak mıydınız	V;IND;PST;PROSP;2;PL;NEG;INTR
+yolundurmak	yolunduruyor olmayacaklar	V;IND;FUT;PROG;3;PL;NEG;DECL
+yoğurmak	yoğurduk mu	V;IND;PST;1;PL;INTR;POS
+parlatmak	parlatmam	V;IND;PRS;HAB;1;SG;NEG;DECL
+sağduyu	sağduyularının	N;GEN;PL;PSS2S
+üremek	üreyin	V;IMP;2;PL;POS;DECL
+sökmek	sökmüyorsunuz	V;IND;PRS;PROG;2;PL;NEG;DECL
+kaynaştırtmak	kaynaştırtmazdım	V;IND;PST;HAB;1;SG;NEG;DECL
+gülünçleşmek	gülünçleşmezdiniz	V;IND;PST;HAB;2;PL;NEG;DECL
+kazanmak	kazanmış olmayacak mıydın	V;INFR;PST;PROSP;2;SG;NEG;INTR
+hastalanmak	hastalanmaz mıymış	V;INFR;PRS;HAB;3;SG;NEG;INTR
+sıcak su torbası	sıcak su torbaları	N;NOM;PL
+acıktırmak	acıktırmayacaktın	V;IND;PST;PROSP;2;SG;NEG;DECL
+solumak	solur muymuşuz	V;INFR;PRS;HAB;1;PL;INTR;POS
+kovmak	kovacaklarmış	V;INFR;FUT;3;PL;POS;DECL
+uymak	uymamalı mıymışsınız	V;OBLIG;INFR;PST;2;PL;NEG;INTR
+attırmak	attırmıyor musunuz	V;IND;PRS;PROG;2;PL;NEG;INTR
+kalkmak	kalkmış olmayacak mısınız	V;INFR;FUT;PFV;2;PL;NEG;INTR
+benek	beneğinden	N;ABL;SG;PSS3S
+fotoğraf çekmek	fotoğraf çekiyor olacakmışım	V;INFR;FUT;PROG;1;SG;POS;DECL
+bir avuç toprak olmak	bir avuç toprak olmuyor muydunuz	V;IND;PST;PROG;2;PL;NEG;INTR
+ön	önünüz	N;NOM;SG;PSS2P
+süründürmek	süründürmeyecekmişim	V;INFR;FUT;1;SG;NEG;DECL
+maç	maçımızdan	N;ABL;SG;PSS1P
+iyileştirmek	iyileştirmeli miymişim	V;OBLIG;INFR;PST;1;SG;INTR;POS
+merdiven	merdiveninin	N;GEN;SG;PSS3S
+demek	demez miydim	V;IND;PST;HAB;1;SG;NEG;INTR
+açmak	açıyor olmayacak mı	V;IND;FUT;PROG;3;SG;NEG;INTR
+kutu	kutunuzun	N;GEN;SG;PSS2P
+çıkarmak	çıkarıyor olmamalıydınız	V;OBLIG;PST;PROG;2;PL;NEG;DECL
+doğmak	doğarız	V;IND;PRS;HAB;1;PL;POS;DECL
+yendirmek	yendirmiyor musunuz	V;IND;PRS;PROG;2;PL;NEG;INTR
+yabancı	yabancılarınızı	N;ACC;PL;PSS2P
+dizmek	dizmezdik	V;IND;PST;HAB;1;PL;NEG;DECL
+yaymak	yayıyorum	V;IND;PRS;PROG;1;SG;POS;DECL
+çalgıcı	çalgıcın	N;NOM;SG;PSS2S
+kasmak	kasıyor olacakmışız	V;INFR;FUT;PROG;1;PL;POS;DECL
+şaşırtmak	şaşırtmalı mıymışım	V;OBLIG;INFR;PST;1;SG;INTR;POS
+ittirtmek	ittirtecek olacaklarmış	V;INFR;FUT;PROSP;3;PL;POS;DECL
+âşık olmak	âşık olacak olmayacakmışsınız	V;INFR;FUT;PROSP;2;PL;NEG;DECL
+bükmek	bükmez misin	V;IND;PRS;HAB;2;SG;NEG;INTR
+anlatmak	anlatmelisiniz	V;OBLIG;PRS;2;PL;POS;DECL
+kovmak	kovuyor olacaktık	V;IND;PST;PROSP+PROG;1;PL;POS;DECL
+doğramak	doğruyor olacak mıydım	V;IND;PST;PROSP+PROG;1;SG;INTR;POS
+alışmak	alışacak olacakmış	V;INFR;FUT;PROSP;3;SG;POS;DECL
+okiya	okiyalarınızı	N;ACC;PL;PSS2P
+içmek	içiyormuşsunuz	V;INFR;PRS;PROG;2;PL;POS;DECL
+üzülmek	üzülmemeli miydiniz	V;OBLIG;PST;2;PL;NEG;INTR
+sızmak	sızacak olmayacaklarmış	V;INFR;FUT;PROSP;3;PL;NEG;DECL
+üstesinden gelmek	üstesinden geldi miydi	V;IND;PST;PFV;3;SG;INTR;POS
+inci	incilermiş	N;ARGNO3P;PL;LGSPEC2
+anmak	anacak mıydın	V;IND;PST;PROSP;2;SG;INTR;POS
+yaramak	yarameliler mi	V;OBLIG;PRS;3;PL;INTR;POS
+soğurmak	soğurur olacak mıymış	V;INFR;FUT;HAB;3;SG;INTR;POS
+yolmak	yoluyor olmazdınız	V;IND;PST;HAB+PROG;2;PL;NEG;DECL
+yaptırmak	yaptırmayacaklar mıydı	V;IND;PST;PROSP;3;PL;NEG;INTR
+cavlağı çekmek	cavlağı çekiyor olacaktık	V;IND;PST;PROSP+PROG;1;PL;POS;DECL
+kararmak	kararmış olacağım	V;INFR;FUT;PFV;1;SG;POS;DECL
+ek	eklerdin	N;ARGNO2S;PL;PST
+dizi	dizilerinizde	N;LOC;PL;PSS2P
+tütmek	tütüyor olurlardı	V;IND;PST;HAB+PROG;3;PL;POS;DECL
+vitrin	vitrinlerine	N;DAT;PL;PSS2S
+keşfetmek	keşfettin mi	V;IND;PST;2;SG;INTR;POS
+sikişmek	sikişmemeliyim	V;OBLIG;PRS;1;SG;NEG;DECL
+sattırtmak	sattırtıyor olacak mıydınız	V;IND;PST;PROSP+PROG;2;PL;INTR;POS
+yıpranmak	yıpranmameli miyiz	V;OBLIG;PRS;1;PL;NEG;INTR
+komikleşmek	komikleşiyor olmamalı mıydın	V;OBLIG;PST;PROG;2;SG;NEG;INTR
+yıpratmak	yıpratıyor olacak mıyım	V;IND;FUT;PROG;1;SG;INTR;POS
+kalkmak	kalkmış mıydık	V;INFR;PST;PFV;1;PL;INTR;POS
+enstrümantal	enstrümantallerimizi	N;ACC;PL;PSS1P
+sincap	sincabının	N;GEN;SG;PSS3S
+bunamak	bunayacak olmayacağız	V;IND;FUT;PROSP;1;PL;NEG;DECL
+etkilemek	etkilemiş olmayacak mıydık	V;INFR;PST;PROSP;1;PL;NEG;INTR
+uyumak	uyuyor olmaz mıydık	V;IND;PST;HAB+PROG;1;PL;NEG;INTR
+hastalanmak	hastalanmayacaklardı	V;IND;PST;PROSP;3;PL;NEG;DECL
+askı	askın	N;NOM;SG;PSS2S
+üst kavram	üst kavramları	N;ACC;PL
+uydu	uydularımızda	N;LOC;PL;PSS1P
+uçmak	uçacak olmayacakmışsın	V;INFR;FUT;PROSP;2;SG;NEG;DECL
+bohça	bohçalarına	N;DAT;PL;PSS2S
+uzak	uzaklarsın	N;ARGNO2S;PL;PRS
+büktürtmek	büktürtüyor olmamalı mıyım	V;OBLIG;PRS;PROG;1;SG;NEG;INTR
+tekdillilik	tekdilliliğinde	N;LOC;SG;PSS3S
+kaybolmak	kaybolacak olmayacaksınız	V;IND;FUT;PROSP;2;PL;NEG;DECL
+kokmak	kokmamalı mıydın	V;OBLIG;PST;2;SG;NEG;INTR
+cisim	cisimdim	N;ARGNO1S;SG;PST

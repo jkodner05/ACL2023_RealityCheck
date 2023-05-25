@@ -1,0 +1,400 @@
+Muster	Muster	N;NOM;NEUT;SG
+müssen	müsse	V;SBJV;SG;3;PRS
+Handy	Handy	N;NOM;NEUT;SG
+Laster	Lasters	N;GEN;MASC;SG
+warten	warte	V;IMP;SG;2
+vergessen	vergisst	V;IND;SG;2;PRS
+Verdacht	Verdacht	N;ACC;MASC;SG
+wahren	wahre	V;IND;SG;1;PRS
+mithelfen	helfen mit	V;IND;PL;1;PRS
+sterben	sterbe	V;IND;SG;1;PRS
+Roller	Rollers	N;GEN;MASC;SG
+fühlen	fühlt	V;IND;SG;3;PRS
+Stoff	Stoff	N;ACC;MASC;SG
+drehen	drehst	V;IND;SG;2;PRS
+kraulen	kraulst	V;IND;SG;2;PRS
+zimmern	zimmern	V;IND;PL;1;PRS
+verbergen	verbarg	V;IND;SG;1;PST
+Regenbogen	Regenbogen	N;ACC;MASC;SG
+quetschen	quetschen	V;IND;PL;1;PRS
+übernachten	übernachtet	V;IND;SG;3;PRS
+zerren	zerrst	V;IND;SG;2;PRS
+können	konnte	V;IND;SG;1;PST
+Rot	Rot	N;NOM;NEUT;SG
+pusten	pusten	V;IND;PL;1;PRS
+leuchten	leuchtet	V;IND;PL;2;PRS
+bezeichnen	bezeichnet	V;IND;PL;2;PRS
+wissen	wussten	V;IND;PL;1;PST
+kosten	kosten	V;IND;PL;1;PRS
+härten	härtet	V;IND;PL;2;PRS
+schnäuzen	schnäuzen	V;IND;PL;1;PRS
+Lösung	Lösungen	N;NOM;FEM;PL
+suppen	suppt	V;IND;SG;3;PRS
+Aal	Aal	N;ACC;MASC;SG
+ablaufen	laufen ab	V;IND;PL;1;PRS
+Blut	Blut	N;NOM;NEUT;SG
+siegen	siegen	V;IND;PL;1;PRS
+pfeffern	pfeffern	V;IND;PL;1;PRS
+Gehirn	Gehirn	N;NOM;NEUT;SG
+reagieren	reagieren	V;IND;PL;1;PRS
+lernen	lernen	V;IND;PL;1;PRS
+mauern	mauert	V;IND;SG;3;PRS
+wecken	wecke	V;IND;SG;1;PRS
+Wartesaal	Wartesaal	N;ACC;MASC;SG
+Schwein	Schwein	N;NOM;NEUT;SG
+turnen	turne	V;IND;SG;1;PRS
+abwarten	warten ab	V;IND;PL;1;PRS
+Freitagnachmittag	Freitagnachmittag	N;ACC;MASC;SG
+gewinnen	gewinnst	V;IND;SG;2;PRS
+angeln	angelt	V;IND;SG;3;PRS
+schalten	schalten	V;IND;PL;1;PRS
+auskennen	kennt aus	V;IND;SG;3;PRS
+staubsaugen	staubsauge	V;IND;SG;1;PRS
+sorgen	sorgt	V;IND;SG;3;PRS
+lecken	leck	V;IMP;SG;2
+verkürzen	verkürzen	V;IND;PL;1;PRS
+Igel	Igel	N;NOM;MASC;PL
+treiben	treibt	V;IND;SG;3;PRS
+erzittern	erzittern	V;IND;PL;1;PRS
+gefallen	gefällt	V;IND;SG;3;PRS
+draufdrücken	drücke drauf	V;IND;SG;1;PRS
+stopfen	stopfst	V;IND;SG;2;PRS
+plaudern	plauderst	V;IND;SG;2;PRS
+Termin	Termin	N;ACC;MASC;SG
+Gleis	Gleis	N;NOM;NEUT;SG
+merken	merken	V;IND;PL;1;PRS
+hören	höre	V;IND;SG;1;PRS
+streuen	streu	V;IMP;SG;2
+Kunstwerk	Kunstwerk	N;NOM;NEUT;SG
+Stachel	Stacheln	N;NOM;MASC;PL
+Pulli	Pullis	N;NOM;MASC;PL
+springen	springe	V;IND;SG;1;PRS
+vernachlässigen	vernachlässigen	V;IND;PL;1;PRS
+Ochse	Ochsen	N;DAT;MASC;PL
+sickern	sickert	V;IND;SG;3;PRS
+rauskriegen	kriegst raus	V;IND;SG;2;PRS
+unterhalten	unterhalte	V;IMP;SG;2
+mögen	magst	V;IND;SG;2;PRS
+duften	duftet	V;IND;PL;2;PRS
+umgeben	umgeben	V;IND;PL;1;PRS
+Bruder	Bruder	N;ACC;MASC;SG
+versehen	versieht	V;IND;SG;3;PRS
+berichten	berichtet	V;IND;PL;2;PRS
+wegfliegen	fliegt weg	V;IND;SG;3;PRS
+unterscheiden	unterscheidet	V;IND;PL;2;PRS
+wehren	wehrst	V;IND;SG;2;PRS
+schleudern	schleuderst	V;IND;SG;2;PRS
+Kasten	Kasten	N;ACC;MASC;SG
+fahnden	fahnden	V;IND;PL;1;PRS
+machen	machst	V;IND;SG;2;PRS
+spritzen	spritzen	V;IND;PL;1;PRS
+schlabbern	schlabbert	V;IND;SG;3;PRS
+telefonieren	telefonieren	V;IND;PL;1;PRS
+auftanken	tank auf	V;IMP;SG;2
+aussprechen	spricht aus	V;IND;SG;3;PRS
+konzentrieren	konzentrieren	V;IND;PL;1;PRS
+Tunnel	Tunneln	N;DAT;MASC;PL
+bilden	bildet	V;IND;SG;3;PRS
+Husten	Husten	N;ACC;MASC;SG
+fegen	fegst	V;IND;SG;2;PRS
+glauben	glaube	V;IND;SG;1;PRS
+Hals	Hälsen	N;DAT;MASC;PL
+Hausschuh	Hausschuh	N;ACC;MASC;SG
+Leuchtturm	Leuchttürmen	N;DAT;MASC;PL
+graben	gräbt	V;IND;SG;3;PRS
+setzen	setz	V;IMP;SG;2
+Body	Body	N;ACC;MASC;SG
+leiden	leidet	V;IND;SG;3;PRS
+grauen	grauen	V;IND;PL;1;PRS
+aussprechen	sprechen aus	V;IND;PL;1;PRS
+Schaum	Schaum	N;ACC;MASC;SG
+lassen	lasse	V;IND;SG;1;PRS
+Fußball	Fußball	N;ACC;MASC;SG
+verhauen	verhauen	V;IND;PL;1;PRS
+reichen	reichen	V;IND;PL;1;PRS
+Roboter	Robotern	N;DAT;MASC;PL
+knüllen	knüllen	V;IND;PL;1;PRS
+Hirsch	Hirsch	N;ACC;MASC;SG
+Champignon	Champignons	N;GEN;MASC;SG
+rutschen	rutschen	V;IND;PL;1;PRS
+Biergarten	Biergarten	N;ACC;MASC;SG
+Sachbuch	Sachbuch	N;NOM;NEUT;SG
+feiern	feiert	V;IND;SG;3;PRS
+hören	hörst	V;IND;SG;2;PRS
+krempeln	krempelst	V;IND;SG;2;PRS
+brauchen	braucht	V;IND;PL;2;PRS
+Halter	Halter	N;ACC;MASC;SG
+steuern	steuert	V;IND;SG;3;PRS
+kaufen	kaufe	V;IND;SG;1;PRS
+behalten	behalte	V;IND;SG;1;PRS
+gleiten	gleitet	V;IND;PL;2;PRS
+schmieren	schmieren	V;IND;PL;1;PRS
+vergehen	vergehen	V;IND;PL;1;PRS
+brechen	bricht	V;IND;SG;3;PRS
+Proviant	Proviant	N;ACC;MASC;SG
+Gefängnis	Gefängnis	N;NOM;NEUT;SG
+Gebüsch	Gebüsch	N;NOM;NEUT;SG
+tangieren	tangiert	V;IND;SG;3;PRS
+blühen	blühen	V;IND;PL;1;PRS
+notieren	notieren	V;IND;PL;1;PRS
+Ärmel	Ärmel	N;ACC;MASC;SG
+Umhang	Umhang	N;ACC;MASC;SG
+Bommel	Bommeln	N;DAT;MASC;PL
+absteigen	steigen ab	V;IND;PL;1;PRS
+umgeben	umgibt	V;IND;SG;3;PRS
+laden	lädst 	V;IND;SG;2;PRS
+anmachen	mach an	V;IMP;SG;2
+Zehennagel	Zehennagel	N;ACC;MASC;SG
+fügen	füg	V;IMP;SG;2
+widmen	widme	V;IND;SG;1;PRS
+Hampelmann	Hampelmann	N;ACC;MASC;SG
+quatschen	quatscht	V;IND;SG;3;PRS
+sprechen	spreche	V;IND;SG;1;PRS
+entern	entern	V;IND;PL;1;PRS
+zubereiten	bereitet zu	V;IND;PL;2;PRS
+hinstellen	stellst hin	V;IND;SG;2;PRS
+verteilen	verteil	V;IMP;SG;2
+blättern	blättert	V;IND;SG;3;PRS
+Person	Personen	N;NOM;FEM;PL
+Hai	Haien	N;DAT;MASC;PL
+stehen	steht 	V;IND;SG;3;PRS
+Entfernung	Entfernungen	N;NOM;FEM;PL
+Tisch	Tischen	N;DAT;MASC;PL
+ergehen	ergehst	V;IND;SG;2;PRS
+blockieren	blockiert	V;IND;SG;3;PRS
+schnäuzen	schnäuz	V;IMP;SG;2
+Wegnehmen	Wegnehmen	N;NOM;NEUT;SG
+murmeln	murmelst	V;IND;SG;2;PRS
+Apparat	Apparaten	N;DAT;MASC;PL
+Boden	Boden	N;ACC;MASC;SG
+Haus	Haus	N;NOM;NEUT;SG
+lutschen	lutscht	V;IND;SG;3;PRS
+sehen	sehen	V;IND;PL;1;PRS
+befördern	beförderst	V;IND;SG;2;PRS
+jauchzen	jauchzt	V;IND;SG;3;PRS
+beziehen	bezieh	V;IMP;SG;2
+Anhänger	Anhängers	N;GEN;MASC;SG
+vorbeigehen	gehen vorbei	V;IND;PL;1;PRS
+blubbern	blubbert	V;IND;SG;3;PRS
+konzentrieren	konzentrierst	V;IND;SG;2;PRS
+täuschen	täuscht	V;IND;SG;3;PRS
+stricken	strickt	V;IND;SG;3;PRS
+bilden	bilden	V;IND;PL;1;PRS
+läuten	läuten	V;IND;PL;1;PRS
+wedeln	wedelst	V;IND;SG;2;PRS
+probieren	probierst	V;IND;SG;2;PRS
+bilden	bildest	V;IND;SG;2;PRS
+Nashorn	Nashorn	N;NOM;NEUT;SG
+tanken	tanken	V;IND;PL;1;PRS
+erkennen	erkennst	V;IND;SG;2;PRS
+weglassen	lassen weg	V;IND;PL;1;PRS
+stempeln	stempelst	V;IND;SG;2;PRS
+Dieb	Diebes	N;GEN;MASC;SG
+Stiefel	Stiefel	N;ACC;MASC;SG
+Docht	Docht	N;ACC;MASC;SG
+feiern	feier	V;IND;SG;1;PRS
+besorgen	besorgen	V;IND;PL;1;PRS
+treten	traten	V;IND;PL;1;PST
+Fall	Fall	N;ACC;MASC;SG
+ordnen	ordne	V;IND;SG;1;PRS
+durchlaufen	durchläuft	V;IND;SG;3;PRS
+Reich	Reich	N;NOM;NEUT;SG
+Autoreifen	Autoreifen	N;NOM;MASC;PL
+Aufenthalt	Aufenthalt	N;ACC;MASC;SG
+sehen	sah	V;IND;SG;3;PST
+Montag	Montag	N;ACC;MASC;SG
+Teil	Teil	N;NOM;NEUT;SG
+Passagier	Passagiere	N;NOM;MASC;PL
+Mops	Möpse	N;NOM;MASC;PL
+Viertel	Viertel	N;NOM;NEUT;SG
+aufsitzen	sitz auf	V;IMP;SG;2
+melden	meldet	V;IND;SG;3;PRS
+abstürzen	stürzt ab	V;IND;SG;3;PRS
+interessieren	interessiert	V;IND;SG;3;PRS
+Marienkäfer	Marienkäfers	N;GEN;MASC;SG
+beruhigen	beruhigen	V;IND;PL;1;PRS
+Esel	Esel	N;ACC;MASC;SG
+ansetzen	setzt an	V;IND;SG;3;PRS
+schnauben	schnaub	V;IMP;SG;2
+Schraubenzieher	Schraubenzieher	N;NOM;MASC;PL
+Tal	Tal	N;NOM;NEUT;SG
+ertrinken	ertrinkt	V;IND;SG;3;PRS
+glänzen	glänzt	V;IND;SG;3;PRS
+Plakat	Plakat	N;NOM;NEUT;SG
+schaden	schadet	V;IND;SG;3;PRS
+fetten	fetten	V;IND;PL;1;PRS
+Antwort	Antworten	N;NOM;FEM;PL
+Becher	Becher	N;ACC;MASC;SG
+ausbrechen	brechen aus	V;IND;PL;1;PRS
+Rabatt	Rabatten	N;DAT;MASC;PL
+träufeln	träufeln	V;IND;PL;1;PRS
+klauen	klauen	V;IND;PL;1;PRS
+können	konnte	V;IND;SG;3;PST
+trauen	trau	V;IMP;SG;2
+verweisen	verweisen	V;IND;PL;1;PRS
+fangen	fange	V;IND;SG;1;PRS
+fernhalten	halten fern	V;IND;PL;1;PRS
+Pflanze	Pflanzen	N;NOM;FEM;PL
+scheißen	scheiß	V;IMP;SG;2
+gestehen	gestehen	V;IND;PL;1;PRS
+verladen	verladen	V;IND;PL;1;PRS
+angeln	angel	V;IND;SG;1;PRS
+Stockwerk	Stockwerk	N;NOM;NEUT;SG
+Richtung	Richtungen	N;NOM;FEM;PL
+verhaften	verhaften	V;IND;PL;1;PRS
+sprechen	spricht	V;IND;SG;3;PRS
+dürfen	durften	V;IND;PL;1;PST
+starren	starren	V;IND;PL;1;PRS
+abfallen	fällt ab	V;IND;SG;3;PRS
+Lammfell	Lammfell	N;NOM;NEUT;SG
+Platz	Platz	N;ACC;MASC;SG
+Lok	Loks	N;NOM;FEM;PL
+festhalten	hält fest	V;IND;SG;3;PRS
+faszinieren	fasziniert	V;IND;SG;3;PRS
+entscheiden	entscheide	V;IND;SG;1;PRS
+haben	habe	V;SBJV;SG;1;PRS
+aufessen	isst auf	V;IND;SG;3;PRS
+umdrehen	dreht um	V;IND;SG;3;PRS
+husten	huste	V;IND;SG;1;PRS
+abhängen	hängen ab	V;IND;PL;1;PRS
+verlieren	verlierst	V;IND;SG;2;PRS
+punkten	punktet	V;IND;PL;2;PRS
+Drilling	Drillinge	N;NOM;MASC;PL
+verzweifeln	verzweifeln	V;IND;PL;1;PRS
+Ausdruck	Ausdrucken	N;DAT;MASC;PL
+Baden	Baden	N;NOM;NEUT;SG
+abwischen	wischen ab	V;IND;PL;1;PRS
+klingen	klang	V;IND;SG;3;PST
+verkleiden	verkleidest	V;IND;SG;2;PRS
+lernen	lerne	V;IND;SG;1;PRS
+rauskommen	kommen raus	V;IND;PL;1;PRS
+krähen	kräht	V;IND;SG;3;PRS
+Kissen	Kissen	N;NOM;NEUT;SG
+fahren	fährst	V;IND;SG;2;PRS
+Rabe	Raben	N;DAT;MASC;PL
+Wal	Wale	N;NOM;MASC;PL
+festhalten	halte fest	V;IND;SG;1;PRS
+machen	machen	V;IND;PL;1;PRS
+Schutzblech	Schutzblech	N;NOM;NEUT;SG
+begeben	begibt	V;IND;SG;3;PRS
+rollen	rollst	V;IND;SG;2;PRS
+wohnen	wohnst	V;IND;SG;2;PRS
+Mondfisch	Mondfisch	N;ACC;MASC;SG
+bollern	bollern	V;IND;PL;1;PRS
+Meer	Meer	N;NOM;NEUT;SG
+fixieren	fixieren	V;IND;PL;1;PRS
+stören	stören	V;IND;PL;1;PRS
+anfangen	fange an	V;IND;SG;1;PRS
+Löffel	Löffel	N;ACC;MASC;SG
+reiten	reiten	V;IND;PL;1;PRS
+bummeln	bummelst	V;IND;SG;2;PRS
+Saft	Saft	N;ACC;MASC;SG
+wegräumen	räumt weg	V;IND;SG;3;PRS
+stapeln	stapelt	V;IND;SG;3;PRS
+Schnurrbart	Schnurrbart	N;ACC;MASC;SG
+föhnen	föhnen	V;IND;PL;1;PRS
+sperren	sperren	V;IND;PL;1;PRS
+radieren	radier	V;IMP;SG;2
+nicken	nicken	V;IND;PL;1;PRS
+fassen	fassen	V;IND;PL;1;PRS
+drängeln	drängeln	V;IND;PL;1;PRS
+vollenden	vollenden	V;IND;PL;1;PRS
+hämmern	hämmert	V;IND;SG;3;PRS
+trinken	trink	V;IMP;SG;2
+traben	traben	V;IND;PL;1;PRS
+beginnen	begann	V;IND;SG;3;PST
+Metall	Metall	N;NOM;NEUT;SG
+abdichten	dichten ab	V;IND;PL;1;PRS
+Beifahrersitz	Beifahrersitz	N;ACC;MASC;SG
+kriegen	krieg	V;IMP;SG;2
+Rettungsboot	Rettungsboot	N;NOM;NEUT;SG
+Sieb	Sieb	N;NOM;NEUT;SG
+Buckelwal	Buckelwal	N;ACC;MASC;SG
+verschicken	verschicken	V;IND;PL;1;PRS
+abladen	lädt ab	V;IND;SG;3;PRS
+Mädchen	Mädchen	N;NOM;NEUT;SG
+Atlas	Atlanten	N;ACC;MASC;SG
+schlagen	schlug	V;IND;SG;3;PST
+Rotlicht	Rotlicht	N;NOM;NEUT;SG
+dichten	dichten	V;IND;PL;1;PRS
+müssen	musst	V;IND;SG;2;PRS
+packen	packen	V;IND;PL;1;PRS
+picken	pickt	V;IND;SG;3;PRS
+ernten	ernten	V;IND;PL;1;PRS
+staunen	staunt	V;IND;SG;3;PRS
+informieren	informiert	V;IND;SG;3;PRS
+Polizeiauto	Polizeiauto	N;NOM;NEUT;SG
+beschweren	beschwerst	V;IND;SG;2;PRS
+Ziffer	Ziffern	N;NOM;FEM;PL
+wachküssen	küssen wach	V;IND;PL;1;PRS
+lösen	lösen	V;IND;PL;1;PRS
+braten	brate	V;IMP;SG;2
+Stab	Stäbe	N;NOM;MASC;PL
+denken	dachten	V;IND;PL;1;PST
+umziehen	ziehst um	V;IND;SG;2;PRS
+Lenkrad	Lenkrad	N;NOM;NEUT;SG
+durchsickern	sickert durch	V;IND;SG;3;PRS
+ausharren	harren aus	V;IND;PL;1;PRS
+warten	wartet	V;IND;PL;2;PRS
+Datum	Datum	N;NOM;NEUT;SG
+äußern	äußer	V;IND;SG;1;PRS
+frischen	frische	V;IND;SG;1;PRS
+verlieren	verloren	V;IND;PL;1;PST
+planschen	planscht	V;IND;SG;3;PRS
+nennen	nannte	V;IND;SG;3;PST
+reparieren	reparierst	V;IND;SG;2;PRS
+mitnehmen	nimmt mit	V;IND;SG;3;PRS
+stempeln	stempeln	V;IND;PL;1;PRS
+eilen	eilt	V;IND;SG;3;PRS
+träumen	träume	V;IND;SG;1;PRS
+Wirbel	Wirbels	N;GEN;MASC;SG
+misslingen	misslingt	V;IND;SG;3;PRS
+langweilen	langweile	V;IND;SG;1;PRS
+antworten	antworten	V;IND;PL;1;PRS
+angucken	gucke an	V;IND;SG;1;PRS
+schmecken	schmecken	V;IND;PL;1;PRS
+gähnen	gähnen	V;IND;PL;1;PRS
+stiefeln	stiefeln	V;IND;PL;1;PRS
+ausschlüpfen	schlüpfen aus	V;IND;PL;1;PRS
+dürfen	dürfe	V;SBJV;SG;1;PRS
+verraten	verrate	V;IMP;SG;2
+aufhaben	hat auf	V;IND;SG;3;PRS
+Matsch	Matsch	N;ACC;MASC;SG
+trommeln	trommelst	V;IND;SG;2;PRS
+Pass	Pass	N;ACC;MASC;SG
+Springbrunnen	Springbrunnen	N;ACC;MASC;SG
+Abgang	Abgang	N;ACC;MASC;SG
+einrichten	richten ein	V;IND;PL;1;PRS
+waschen	wäschst	V;IND;SG;2;PRS
+schmieren	schmier	V;IMP;SG;2
+schenken	schenke	V;IND;SG;1;PRS
+Lagerfeuer	Lagerfeuer	N;NOM;NEUT;SG
+Feuerwerk	Feuerwerk	N;NOM;NEUT;SG
+lärmen	lärmt	V;IND;SG;3;PRS
+Rosa	Rosa	N;NOM;NEUT;SG
+üben	übst	V;IND;SG;2;PRS
+vorlesen	lies vor	V;IMP;SG;2
+raufen	raufen	V;IND;PL;1;PRS
+Aufkleber	Aufkleber	N;ACC;MASC;SG
+einholen	holen ein	V;IND;PL;1;PRS
+Unterschied	Unterschied	N;ACC;MASC;SG
+abbeißen	beißen ab	V;IND;PL;1;PRS
+Staub	Staub	N;ACC;MASC;SG
+vorstellen	stelle vor	V;IND;SG;1;PRS
+nehmen	nehmen	V;IND;PL;1;PRS
+Räucherlachs	Räucherlachs	N;ACC;MASC;SG
+abkühlen	kühlen ab	V;IND;PL;1;PRS
+Karteikasten	Karteikasten	N;ACC;MASC;SG
+sitzenbleiben	bleiben sitzen	V;IND;PL;1;PRS
+Ausflug	Ausflüge	N;NOM;MASC;PL
+Gepäck	Gepäck	N;NOM;NEUT;SG
+Hund	Hunden	N;DAT;MASC;PL
+vereinen	vereinen	V;IND;PL;1;PRS
+verspielen	verspielen	V;IND;PL;1;PRS
+Nummernschild	Nummernschild	N;NOM;NEUT;SG
+waten	waten	V;IND;PL;1;PRS
+zwingen	zwingen	V;IND;PL;1;PRS
+erlauben	erlaubt	V;IND;SG;3;PRS
+abzählen	zählen ab	V;IND;PL;1;PRS
+Tunnel	Tunnel	N;ACC;MASC;SG
+Müllwagen	Müllwagen	N;ACC;MASC;SG

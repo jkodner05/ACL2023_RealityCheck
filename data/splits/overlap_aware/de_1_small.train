@@ -1,0 +1,400 @@
+erzeugen	erzeugen	V;IND;PL;1;PRS
+Brause	Brause	N;NOM;FEM;SG
+Metzger	Metzger	N;DAT;MASC;SG
+lenken	lenk	V;IMP;SG;2
+gurgeln	gurgeln	V;IND;PL;1;PRS
+Maßnahme	Maßnahme	N;NOM;FEM;SG
+Steg	Steg	N;DAT;MASC;SG
+Kinn	Kinn	N;NOM;NEUT;SG
+bewegen	bewegte	V;SBJV;SG;1;PST
+Po	Po	N;DAT;MASC;SG
+Nahrung	Nahrung	N;NOM;FEM;SG
+Falle	Fallen	N;DAT;FEM;PL
+gehören	gehörte	V;SBJV;SG;1;PST
+vergleichen	vergleichst	V;IND;SG;2;PRS
+Bohrmaschine	Bohrmaschine	N;NOM;FEM;SG
+Schürze	Schürzen	N;DAT;FEM;PL
+wollen	willst	V;IND;SG;2;PRS
+bitten	bittest	V;IND;SG;2;PRS
+erleben	erleben	V;IND;PL;1;PRS
+verbringen	verbringen	V;IND;PL;1;PRS
+quengeln	quengeln	V;IND;PL;1;PRS
+Kröte	Kröte	N;NOM;FEM;SG
+Krankenwagen	Krankenwagen	N;DAT;MASC;SG
+löffeln	löffelst	V;IND;SG;2;PRS
+auslaufen	laufen aus	V;IND;PL;1;PRS
+Maus	Mäuse	N;NOM;FEM;PL
+Rose	Rosen	N;DAT;FEM;PL
+stoßen	stoßen	V;IND;PL;1;PRS
+Dampfer	Dampfer	N;DAT;MASC;SG
+flüstern	flüstern	V;IND;PL;1;PRS
+anhören	hören an	V;IND;PL;1;PRS
+Atlas	Atlanten	N;DAT;MASC;SG
+Beilage	Beilage	N;NOM;FEM;SG
+versuchen	versuch	V;IMP;SG;2
+Leuchtturm	Leuchtturm	N;DAT;MASC;SG
+prosten	prosten	V;IND;PL;1;PRS
+bürsten	bürsten	V;IND;PL;1;PRS
+Skelett	Skelett	N;NOM;NEUT;SG
+Zange	Zangen	N;DAT;FEM;PL
+Wölbung	Wölbung	N;NOM;FEM;SG
+organisieren	organisieren	V;IND;PL;1;PRS
+Ernte	Ernte	N;NOM;FEM;SG
+Lagerfeuer	Lagerfeuer	N;NOM;NEUT;SG
+Oktober	Oktober	N;DAT;MASC;SG
+Kugelfisch	Kugelfisch	N;DAT;MASC;SG
+halten	halten	V;IND;PL;1;PRS
+kneifen	kneifen	V;IND;PL;1;PRS
+Fall	Falle	N;DAT;MASC;SG
+frühstücken	frühstücken	V;IND;PL;1;PRS
+kuscheln	kuscheln	V;IND;PL;1;PRS
+gehen	ging	V;IND;SG;3;PST
+Sardine	Sardinen	N;DAT;FEM;PL
+kleckern	kleckerst	V;IND;SG;2;PRS
+kneifen	kneifst	V;IND;SG;2;PRS
+stillen	stillen	V;IND;PL;1;PRS
+Ecke	Ecke	N;NOM;FEM;SG
+schreiten	schrittest	V;IND;SG;2;PST
+liegen	liegen	V;IND;PL;1;PRS
+schimpfen	schimpfen	V;IND;PL;1;PRS
+Katalog	Katalog	N;DAT;MASC;SG
+abdichten	dichten ab	V;IND;PL;1;PRS
+herziehen	ziehen her	V;IND;PL;1;PRS
+Heizung	Heizung	N;NOM;FEM;SG
+hellen	hellen	V;IND;PL;1;PRS
+zerschneiden	zerschneide	V;IMP;SG;2
+Frage	Fragen	N;DAT;FEM;PL
+Delphin	Delphin	N;DAT;MASC;SG
+Auswahl	Auswahl	N;NOM;FEM;SG
+aufstehen	standen auf	V;IND;PL;3;PST
+rauskriegen	kriegst raus	V;IND;SG;2;PRS
+Kurbel	Kurbel	N;NOM;FEM;SG
+Schlafanzug	Schlafanzug	N;DAT;MASC;SG
+ertrinken	ertrinken	V;IND;PL;1;PRS
+Träger	Träger	N;DAT;MASC;SG
+Sonne	Sonnen	N;DAT;FEM;PL
+versorgen	versorgen	V;IND;PL;1;PRS
+Schicht	Schicht	N;NOM;FEM;SG
+applaudieren	applaudieren	V;IND;PL;1;PRS
+Sonnenschirm	Sonnenschirm	N;DAT;MASC;SG
+kennen	kennen	V;IND;PL;1;PRS
+unterhalten	unterhalte	V;IMP;SG;2
+hoffen	hoffen	V;IND;PL;1;PRS
+Kleeblatt	Kleeblatt	N;NOM;NEUT;SG
+Vision	Vision	N;NOM;FEM;SG
+Kartenspiel	Kartenspiel	N;NOM;NEUT;SG
+bezweifeln	bezweifeln	V;IND;PL;1;PRS
+raten	rätst	V;IND;SG;2;PRS
+Eiszeit	Eiszeit	N;NOM;FEM;SG
+Ostsee	Ostsee	N;NOM;FEM;SG
+Ansicht	Ansicht	N;NOM;FEM;SG
+träumen	träumst	V;IND;SG;2;PRS
+hinkriegen	kriegst hin	V;IND;SG;2;PRS
+Blumenstrauß	Blumenstrauß	N;DAT;MASC;SG
+Schale	Schale	N;NOM;FEM;SG
+strecken	strecken	V;IND;PL;1;PRS
+grasen	graste	V;SBJV;SG;1;PST
+Butter	Butter	N;NOM;FEM;SG
+raffinieren	raffinierte	V;SBJV;SG;1;PST
+vorbeikommen	kommen vorbei	V;IND;PL;1;PRS
+Prise	Prise	N;NOM;FEM;SG
+interessieren	interessieren	V;IND;PL;1;PRS
+haben	habe	V;SBJV;SG;3;PRS
+Häuschen	Häuschen	N;NOM;NEUT;SG
+Nest	Nest	N;NOM;NEUT;SG
+fragen	fragst	V;IND;SG;2;PRS
+Nadel	Nadel	N;NOM;FEM;SG
+verbrennen	verbrennst	V;IND;SG;2;PRS
+malen	malst	V;IND;SG;2;PRS
+Spiel	Spiel	N;NOM;NEUT;SG
+Dekan	Dekan	N;DAT;MASC;SG
+Krippenspiel	Krippenspiel	N;NOM;NEUT;SG
+Schleier	Schleier	N;DAT;MASC;SG
+schmücken	schmückst	V;IND;SG;2;PRS
+Dreieck	Dreieck	N;NOM;NEUT;SG
+Wald	Walde	N;DAT;MASC;SG
+Hand	Händen	N;DAT;FEM;PL
+müssen	mussten	V;IND;PL;3;PST
+umkippen	kippen um	V;IND;PL;1;PRS
+Schiebetür	Schiebetüren	N;NOM;FEM;PL
+Räucherlachs	Räucherlachse	N;DAT;MASC;SG
+Sonnenblume	Sonnenblumen	N;DAT;FEM;PL
+anstoßen	stößt an	V;IND;SG;2;PRS
+abwechseln	wechseln ab	V;IND;PL;1;PRS
+pumpen	pump	V;IMP;SG;2
+hoppeln	hoppeln	V;IND;PL;1;PRS
+benutzen	benutzen	V;IND;PL;1;PRS
+Grill	Grill	N;DAT;MASC;SG
+werden	werde	V;SBJV;SG;1;PRS
+scheiden	scheiden	V;IND;PL;1;PRS
+Dom	Dom	N;DAT;MASC;SG
+lauschen	lauschen	V;IND;PL;1;PRS
+rudern	rudern	V;IND;PL;1;PRS
+Sache	Sache	N;NOM;FEM;SG
+Signal	Signal	N;NOM;NEUT;SG
+Fahrbahn	Fahrbahn	N;NOM;FEM;SG
+waten	waten	V;IND;PL;1;PRS
+Kiwi	Kiwi	N;NOM;FEM;SG
+merken	merk	V;IMP;SG;2
+Faser	Fasern	N;NOM;FEM;PL
+hocken	hockst	V;IND;SG;2;PRS
+pflücken	pflücken	V;IND;PL;1;PRS
+Gewürzgurke	Gewürzgurken	N;DAT;FEM;PL
+Sekunde	Sekunde	N;NOM;FEM;SG
+tauschen	tauschen	V;IND;PL;1;PRS
+Lottospiel	Lottospiel	N;NOM;NEUT;SG
+verlängern	verlängern	V;IND;PL;1;PRS
+weisen	weist	V;IND;SG;2;PRS
+Korkenzieher	Korkenzieher	N;DAT;MASC;SG
+kriechen	kriechen	V;IND;PL;1;PRS
+Dolle	Dolle	N;GEN;NEUT;SG
+Automarke	Automarke	N;NOM;FEM;SG
+fressen	frisst	V;IND;SG;2;PRS
+Leuchte	Leuchten	N;DAT;FEM;PL
+knurren	knurrst	V;IND;SG;2;PRS
+Fichte	Fichte	N;NOM;FEM;SG
+Boje	Boje	N;NOM;FEM;SG
+siegen	siegen	V;IND;PL;1;PRS
+Garten	Garten	N;DAT;MASC;SG
+erwärmen	erwärmst	V;IND;SG;2;PRS
+Keller	Keller	N;DAT;MASC;SG
+laufen	läufst	V;IND;SG;2;PRS
+Kranich	Kranich	N;DAT;MASC;SG
+Zustand	Zustande	N;DAT;MASC;SG
+Farbenspiel	Farbenspiel	N;NOM;NEUT;SG
+Brot	Brot	N;NOM;NEUT;SG
+verwerten	verwerten	V;IND;PL;1;PRS
+umkehren	kehren um	V;IND;PL;1;PRS
+Messer	Messer	N;DAT;MASC;SG
+abschneiden	schneiden ab	V;IND;PL;1;PRS
+Fingerspitzengefühl	Fingerspitzengefühl	N;NOM;NEUT;SG
+Aprikose	Aprikosen	N;NOM;FEM;PL
+Achterbahn	Achterbahn	N;NOM;FEM;SG
+akzeptieren	akzeptieren	V;IND;PL;1;PRS
+Busch	Busch	N;DAT;MASC;SG
+Kirchturm	Kirchturm	N;DAT;MASC;SG
+Unterlage	Unterlagen	N;DAT;FEM;PL
+Bonbon	Bonbons	N;GEN;NEUT;SG
+Mühle	Mühle	N;NOM;FEM;SG
+Krankenhaus	Krankenhaus	N;NOM;NEUT;SG
+angeln	angelst	V;IND;SG;2;PRS
+Bemerkung	Bemerkungen	N;NOM;FEM;PL
+Zitrone	Zitrone	N;NOM;FEM;SG
+absprechen	sprechen ab	V;IND;PL;1;PRS
+heiligen	heilig	V;IMP;SG;2
+Klammer	Klammer	N;NOM;FEM;SG
+August	August	N;DAT;MASC;SG
+Rettungsring	Rettungsring	N;DAT;MASC;SG
+stiefeln	stiefeln	V;IND;PL;1;PRS
+Echse	Echse	N;NOM;FEM;SG
+glasieren	glasierte	V;SBJV;SG;1;PST
+aufhören	hör auf	V;IMP;SG;2
+Mauer	Mauern	N;DAT;FEM;PL
+auswerfen	werfen aus	V;IND;PL;1;PRS
+umbringen	bringen um	V;IND;PL;1;PRS
+fernhalten	halten fern	V;IND;PL;1;PRS
+essen	aßen	V;IND;PL;3;PST
+umwenden	wendest um	V;IND;SG;2;PRS
+Gesellschaft	Gesellschaft	N;NOM;FEM;SG
+Düse	Düsen	N;NOM;FEM;PL
+Mikrofon	Mikrofon	N;NOM;NEUT;SG
+stützen	stütz	V;IMP;SG;2
+absägen	sägen ab	V;IND;PL;1;PRS
+Margerite	Margeriten	N;DAT;FEM;PL
+Renner	Renner	N;DAT;MASC;SG
+schalten	schalten	V;IND;PL;1;PRS
+Menge	Menge	N;NOM;FEM;SG
+Veranstaltung	Veranstaltung	N;NOM;FEM;SG
+Getränk	Getränke	N;GEN;NEUT;PL
+Klausur	Klausur	N;NOM;FEM;SG
+hören	hörte	V;SBJV;SG;1;PST
+Leere	Leeren	N;DAT;FEM;PL
+Gitter	Gitter	N;NOM;NEUT;SG
+beichten	beichten	V;IND;PL;1;PRS
+Faser	Fasern	N;DAT;FEM;PL
+aussuchen	suchen aus	V;IND;PL;1;PRS
+ausdrücken	drücken aus	V;IND;PL;1;PRS
+Biest	Biest	N;NOM;NEUT;SG
+Weihnachtsmarkt	Weihnachtsmarkte	N;DAT;MASC;SG
+schreiben	schreibst	V;IND;SG;2;PRS
+wippen	wippen	V;IND;PL;1;PRS
+trauen	trau	V;IMP;SG;2
+Baby	Babys	N;GEN;NEUT;SG
+Vorhersage	Vorhersagen	N;DAT;FEM;PL
+denken	denken	V;IND;PL;1;PRS
+ausgehen	gehen aus	V;IND;PL;1;PRS
+Fabrik	Fabriken	N;NOM;FEM;PL
+krabbeln	krabbeln	V;IND;PL;1;PRS
+verzieren	verzieren	V;IND;PL;1;PRS
+enden	enden	V;IND;PL;1;PRS
+quälen	quäl	V;IMP;SG;2
+Arm	Arme	N;DAT;MASC;SG
+ausrollen	rollen aus	V;IND;PL;1;PRS
+beziehen	bezieh	V;IMP;SG;2
+Bratwurst	Bratwurst	N;NOM;FEM;SG
+klären	klärst	V;IND;SG;2;PRS
+Rosine	Rosine	N;NOM;FEM;SG
+Schirm	Schirme	N;DAT;MASC;SG
+Tischdecke	Tischdecke	N;NOM;FEM;SG
+sitzenbleiben	bleiben sitzen	V;IND;PL;1;PRS
+Rohr	Rohre	N;GEN;NEUT;PL
+trampeln	trampelst	V;IND;SG;2;PRS
+nerven	nervst	V;IND;SG;2;PRS
+Papierkorb	Papierkorbe	N;DAT;MASC;SG
+erzählen	erzählst	V;IND;SG;2;PRS
+Kaufhaus	Kaufhaus	N;NOM;NEUT;SG
+Gebirge	Gebirge	N;NOM;NEUT;SG
+Bahnstation	Bahnstation	N;NOM;FEM;SG
+Fläche	Fläche	N;NOM;FEM;SG
+trösten	trösten	V;IND;PL;1;PRS
+Gummi	Gummis	N;GEN;NEUT;SG
+Schicksal	Schicksal	N;NOM;NEUT;SG
+können	konnten	V;IND;PL;3;PST
+Karotte	Karotten	N;DAT;FEM;PL
+blasen	blasen	V;IND;PL;1;PRS
+Frikadelle	Frikadellen	N;DAT;FEM;PL
+Mauseloch	Mauseloch	N;NOM;NEUT;SG
+schätzen	schätzen	V;IND;PL;1;PRS
+Gang	Gang	N;DAT;MASC;SG
+Panik	Panik	N;NOM;FEM;SG
+Wäscheleine	Wäscheleine	N;NOM;FEM;SG
+Transporter	Transporter	N;DAT;MASC;SG
+braten	braten	V;IND;PL;1;PRS
+Stütze	Stütze	N;NOM;FEM;SG
+Deutsche	Deutschen	N;DAT;FEM;PL
+nuscheln	nuschelst	V;IND;SG;2;PRS
+wachen	wachen	V;IND;PL;1;PRS
+Schote	Schoten	N;DAT;FEM;PL
+Gekreische	Gekreische	N;NOM;NEUT;SG
+Sorte	Sorte	N;NOM;FEM;SG
+Geisterbahn	Geisterbahn	N;NOM;FEM;SG
+Tier	Tier	N;NOM;NEUT;SG
+reparieren	reparieren	V;IND;PL;1;PRS
+Rucksack	Rucksack	N;DAT;MASC;SG
+nehmen	nimmst	V;IND;SG;2;PRS
+Kutsche	Kutsche	N;NOM;FEM;SG
+Löwenmähne	Löwenmähne	N;NOM;FEM;SG
+Ort	Orte	N;DAT;MASC;SG
+Bahre	Bahre	N;NOM;FEM;SG
+schmecken	schmeckte	V;SBJV;SG;1;PST
+unterbringen	bringen unter	V;IND;PL;1;PRS
+übertünchen	tünchte über	V;SBJV;SG;1;PST
+assistieren	assistieren	V;IND;PL;1;PRS
+ausschlafen	schlafen aus	V;IND;PL;1;PRS
+Mittellinie	Mittellinie	N;NOM;FEM;SG
+Krücke	Krücken	N;DAT;FEM;PL
+Wasserleitung	Wasserleitung	N;NOM;FEM;SG
+Foto	Foto	N;NOM;NEUT;SG
+Post	Post	N;NOM;FEM;SG
+Butterdose	Butterdose	N;NOM;FEM;SG
+Tannenbaum	Tannenbaum	N;DAT;MASC;SG
+verbergen	verbergen	V;IND;PL;1;PRS
+Ausflug	Ausflug	N;DAT;MASC;SG
+Düse	Düsen	N;DAT;FEM;PL
+Osten	Osten	N;DAT;MASC;SG
+tanken	tankst	V;IND;SG;2;PRS
+Anzeige	Anzeigen	N;DAT;FEM;PL
+entführen	entführen	V;IND;PL;1;PRS
+zahlen	zahlen	V;IND;PL;1;PRS
+Schweinchen	Schweinchen	N;NOM;NEUT;SG
+müssen	musstet	V;IND;PL;2;PST
+ergeben	ergeben	V;IND;PL;1;PRS
+zahlen	zahl	V;IMP;SG;2
+verhindern	verhindern	V;IND;PL;1;PRS
+verhalten	verhalten	V;IND;PL;1;PRS
+summen	summst	V;IND;SG;2;PRS
+murmeln	murmelte	V;SBJV;SG;1;PST
+Sofa	Sofas	N;GEN;NEUT;SG
+Kofferraum	Kofferraum	N;DAT;MASC;SG
+scheißen	scheiß	V;IMP;SG;2
+Gericht	Gericht	N;NOM;NEUT;SG
+Kohle	Kohlen	N;DAT;FEM;PL
+feilen	feilen	V;IND;PL;1;PRS
+verbinden	verbindest	V;IND;SG;2;PRS
+Tageslicht	Tageslicht	N;NOM;NEUT;SG
+ausfallen	fallen aus	V;IND;PL;1;PRS
+rutschen	rutschen	V;IND;PL;1;PRS
+Jude	Juden	N;GEN;MASC;PL
+Olive	Oliven	N;DAT;FEM;PL
+Signal	Signales	N;GEN;NEUT;SG
+decken	deckst	V;IND;SG;2;PRS
+produzieren	produzieren	V;IND;PL;1;PRS
+Beule	Beulen	N;DAT;FEM;PL
+Kloschüssel	Kloschüssel	N;NOM;FEM;SG
+Karton	Karton	N;DAT;MASC;SG
+treten	traten	V;IND;PL;3;PST
+Zwiebel	Zwiebel	N;NOM;FEM;SG
+Rand	Rand	N;DAT;MASC;SG
+schütten	schüttete	V;SBJV;SG;1;PST
+werden	werden	V;IND;PL;1;PRS
+blicken	blick	V;IMP;SG;2
+Roller	Rollers	N;GEN;MASC;SG
+desinfizieren	desinfizieren	V;IND;PL;1;PRS
+Eigelb	Eigelb	N;NOM;NEUT;SG
+Beere	Beere	N;NOM;FEM;SG
+dampfen	dampfen	V;IND;PL;1;PRS
+tauchen	tauchte	V;SBJV;SG;1;PST
+heulen	heul	V;IMP;SG;2
+Brombeere	Brombeeren	N;DAT;FEM;PL
+besuchen	besuchst	V;IND;SG;2;PRS
+bemalen	bemalst	V;IND;SG;2;PRS
+Schranke	Schranken	N;DAT;FEM;PL
+erwachen	erwachen	V;IND;PL;1;PRS
+Buckelwal	Buckelwal	N;DAT;MASC;SG
+Kaffeebohne	Kaffeebohne	N;NOM;FEM;SG
+Antenne	Antenne	N;NOM;FEM;SG
+Straße	Straßen	N;DAT;FEM;PL
+Liebe	Lieben	N;DAT;FEM;PL
+Zuckerrübe	Zuckerrübe	N;NOM;FEM;SG
+Mülltonne	Mülltonne	N;NOM;FEM;SG
+Frühling	Frühlings	N;GEN;MASC;SG
+kraulen	kraulst	V;IND;SG;2;PRS
+Glauben	Glauben	N;DAT;MASC;SG
+schreien	schreist	V;IND;SG;2;PRS
+Tante	Tante	N;NOM;FEM;SG
+Socke	Socken	N;DAT;FEM;PL
+abblitzen	blitzen ab	V;IND;PL;1;PRS
+rausschmeißen	schmeißen raus	V;IND;PL;1;PRS
+Lust	Lust	N;NOM;FEM;SG
+Schweizer	Schweizer	N;DAT;MASC;SG
+erklären	erklär	V;IMP;SG;2
+reinlegen	legst rein	V;IND;SG;2;PRS
+umrühren	rühren um	V;IND;PL;1;PRS
+wippen	wippst	V;IND;SG;2;PRS
+abschließen	schließen ab	V;IND;PL;1;PRS
+Nudel	Nudeln	N;NOM;FEM;PL
+füllen	füll	V;IMP;SG;2
+Abdruck	Abdruck	N;DAT;MASC;SG
+brüllen	brüllst	V;IND;SG;2;PRS
+abtreten	treten ab	V;IND;PL;1;PRS
+Wagen	Wagen	N;DAT;MASC;SG
+illustrieren	illustrierte	V;SBJV;SG;1;PST
+Zusammenhang	Zusammenhang	N;DAT;MASC;SG
+beibringen	bringen bei	V;IND;PL;1;PRS
+Montag	Montage	N;DAT;MASC;SG
+Reibung	Reibung	N;NOM;FEM;SG
+Augenfarbe	Augenfarbe	N;NOM;FEM;SG
+Hyäne	Hyänen	N;DAT;FEM;PL
+laufen	lauf	V;IMP;SG;2
+Falle	Falle	N;NOM;FEM;SG
+Fahrkarte	Fahrkarten	N;DAT;FEM;PL
+kratzen	kratz	V;IMP;SG;2
+Geschäft	Geschäft	N;NOM;NEUT;SG
+überziehen	überzogen	V;IND;PL;3;PST
+Niere	Niere	N;NOM;FEM;SG
+Zunge	Zungen	N;DAT;FEM;PL
+aufhängen	häng auf	V;IMP;SG;2
+verfolgen	verfolgen	V;IND;PL;1;PRS
+Röhre	Röhre	N;NOM;FEM;SG
+Körper	Körpers	N;GEN;MASC;SG
+Ware	Ware	N;NOM;FEM;SG
+Sorge	Sorge	N;NOM;FEM;SG
+aufmachen	mach auf	V;IMP;SG;2
+haben	hatten	V;IND;PL;3;PST
+Sauhaufen	Sauhaufen	N;DAT;MASC;SG
+vermischen	vermischen	V;IND;PL;1;PRS
+abreiben	reiben ab	V;IND;PL;1;PRS
+Bakterie	Bakterien	N;DAT;FEM;PL
+auspusten	pusten aus	V;IND;PL;1;PRS
+Autoschlüssel	Autoschlüssel	N;DAT;MASC;SG
+Wasserfarbe	Wasserfarben	N;DAT;FEM;PL

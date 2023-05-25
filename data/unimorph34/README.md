@@ -1,0 +1,1 @@
+Where applicable, these files were constructed by concatenating UniMorph 3 + 4, sorting them, normalizing UniMorph 3 features to UniMorph 4, then deduplicating. No attempt was made to correct errors propagated from UniMorph.
